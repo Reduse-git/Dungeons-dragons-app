@@ -1,4 +1,4 @@
-package com.reduse.dungeonsdragons_app.model;
+package com.reduse.dungeonsdragons_app.data.model;
 
 import java.util.UUID;
 
